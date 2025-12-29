@@ -1,5 +1,5 @@
 # 💫 About Me:
-Results-driven Senior UI Developer with 7+ years of experience in <br>building dynamic web and desktop applications using Angular, NgRx,<br>Javascript, Tailwind CSS, Bootsrap, HTML5, CSS3, Electron.js, and TypeScript. Expertise in Frontend development,<br> performance optimization, and scalable architecture. Proven track<br> record of leading cross-functional teams, mentoring developers, and <br>delivering high-impact solutions for B2B SaaS platforms (Construction, <br>Healthcare). Passionate about UI/UX design, reusable component <br>libraries, and test-driven development using Jest, Karma, Jasmine &<br> Sonar Qube.
+Results-driven Senior UI Developer with 7+ years of experience in building dynamic web and desktop applications using **Angular, NgRx**, **Javascript, Tailwind CSS, Bootsrap, HTML5, CSS3, Electron.js**, **TypeScript**, **Node.js**. Expertise in Frontend development, performance optimization, and scalable architecture. Proven track record of leading cross-functional teams, mentoring developers, and delivering high-impact solutions for B2B SaaS platforms (Construction, Healthcare). Passionate about UI/UX design, reusable component libraries, and test-driven development using Jest, Karma, Jasmine, Sonar Qube.
 
 
 ## 🌐 Socials:
