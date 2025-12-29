@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Shubham Suryawanshi:
 Results-driven Senior UI Developer with 7+ years of experience in building dynamic web and desktop applications using **Angular, NgRx**, **Javascript, Tailwind CSS, Bootsrap, HTML5, CSS3, Electron.js**, **TypeScript**, **Node.js**. Expertise in Frontend development, performance optimization, and scalable architecture. Proven track record of leading cross-functional teams, mentoring developers, and delivering high-impact solutions for B2B SaaS platforms (Construction, Healthcare). Passionate about UI/UX design, reusable component libraries, and test-driven development using Jest, Karma, Jasmine, Sonar Qube.
 
 
@@ -12,11 +12,9 @@ Results-driven Senior UI Developer with 7+ years of experience in building dynam
 ![](https://nirzak-streak-stats.vercel.app/?user=shubhsurya06&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhsurya06&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shubhsurya06&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-readme-stats.vercel.app/api?username=shubhsurya06&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=shubhsurya06&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhsurya06&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=shubhsurya06&icon=0&color=0)](https://visitcount.itsvg.in)
