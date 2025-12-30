@@ -1,4 +1,4 @@
-# 💫 Shubham Suryawanshi:
+# 💫 Shubham Suryawanshi
 Results-driven Senior UI Developer with 7+ years of experience in building dynamic web and desktop applications using **Angular, NgRx**, **Javascript, Tailwind CSS, Bootsrap, HTML5, CSS3, Electron.js**, **TypeScript**, **Node.js**. Expertise in Frontend development, performance optimization, and scalable architecture. Proven track record of leading cross-functional teams, mentoring developers, and delivering high-impact solutions for B2B SaaS platforms (Construction, Healthcare). Passionate about UI/UX design, reusable component libraries, and test-driven development using Jest, Karma, Jasmine, Sonar Qube.
 
 
