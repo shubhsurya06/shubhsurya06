@@ -1,6 +1,13 @@
 # 💫 Shubham Suryawanshi
 Results-driven Senior UI Developer with 7+ years of experience in building dynamic web and desktop applications using **Angular, NgRx**, **Javascript, Tailwind CSS, Bootsrap, HTML5, CSS3, Electron.js**, **TypeScript**, **Node.js**. Expertise in Frontend development, performance optimization, and scalable architecture. Proven track record of leading cross-functional teams, mentoring developers, and delivering high-impact solutions for B2B SaaS platforms (Construction, Healthcare). Passionate about UI/UX design, reusable component libraries, and test-driven development using Jest, Karma, Jasmine, Sonar Qube.
 
+## 📦 Projects
+
+### Item List Manager | Hackerrank
+A lightweight Angular application of Item List Manager using NgRx Store management that allows users to add, edit, delete, and completion toggle functionality.
+
+🔗 [Live Demo](https://item-list-manager-hackerrank.vercel.app/) | 🔗 [GitHub Repo
+](https://github.com/shubhsurya06/item-list-manager-hackerrank)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shubhsurya06) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham-suryawanshi-302141a7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shubhsurya06@gmail.com) 
